@@ -62,10 +62,10 @@ public class PlayerController : MonoBehaviour
 ```
 
 ## Output:
-#### Mini Game
+### Mini Game
 ![Screenshot 2024-05-16 181045](https://github.com/sanjay5656/Ex06-Redirecting-the-Scene/assets/115128955/337efb9c-3e68-4f7b-8f46-2f59aca4a33b)
 
-
+### Level 2
 ![Screenshot 2024-05-16 181147](https://github.com/sanjay5656/Ex06-Redirecting-the-Scene/assets/115128955/bbd27aab-b0b6-49cf-9152-43da52562b38)
 
 
